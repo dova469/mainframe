@@ -55,8 +55,8 @@ LOOKLIKE:
 {PROGRAM: 8 DECEMBER 2025 , 4 DECEMBER 2025 17:28:06 DST , 12 DECEMBER 2025, 16 DECEMBER 2025 08:57 DST ,
 },
 AND 
-
-29nov_go
+ 
+29nov_go DST
 1:04
 -
 5:23
@@ -79,7 +79,7 @@ AND
 21:00
 23:59
 
-30Nov_go
+30Nov_go DST
 -
 4:15:58:58
 4:16
@@ -95,14 +95,14 @@ AND
 19:09
 23:40
 
-1Dec_go
+1Dec_go DST
 4:20
 10:50
 16:30
 21:21
 23:44
 
-2Dec_go
+2Dec_go DST
 -
 1:42
 5:50
@@ -110,7 +110,7 @@ AND
 20:50
 23:45
 
-3Dec_go
+3Dec_go DST
 1:20
 3:59
 9:00
@@ -125,7 +125,7 @@ AND
 20:00
 23:56
 
-4Dec_go
+4Dec_go DST
 2:24
 -
 11:47
@@ -138,14 +138,14 @@ AND
 20:00
 22:58
 
-5Dec_go
+5Dec_go DST
 1:26
 -
 15:02
 19:09
 23:50
 
-6Dec_go
+6Dec_go DST
 1:55
 2:06
 5:52
@@ -159,7 +159,7 @@ AND
 -
 23:30
 
-7Dec_go
+7Dec_go DST
 00:08
 -
 6:09
@@ -173,7 +173,7 @@ AND
 20:05
 22:59
 
-8Dec_go
+8Dec_go DST
 0:01
 0:02
 0:03
@@ -196,7 +196,7 @@ AND
 22:21
 23:56
 
-9Dec_go
+9Dec_go DST
 1:26
 3:51
 4:20
@@ -216,7 +216,7 @@ AND
 22:10
 23:45
 
-10Dec_go
+10Dec_go DST
 0:11
 4:21
 7:02
@@ -225,7 +225,7 @@ AND
 19:56
 22:09
 
-11Dec_go
+11Dec_go DST
 1:26
 5:58
 10:00
@@ -243,7 +243,7 @@ BACKWARDS_NEXT_BACK
 21:50
 23:45
 
-12Dec_go
+12Dec_go DST
 2:22
 5:56
 -
@@ -257,7 +257,7 @@ BACKWARDS_NEXT_BACK
 21:30
 23:54
 
-13Dec_go
+13Dec_go DST
 1:14
 5:00
 9:41
@@ -271,13 +271,13 @@ BACKWARDS_NEXT_BACK
 20:59
 23:22
 
-14Dec_go
+14Dec_go DST
 -
 19:59
 21:50
 23:55
 
-15Dec_go
+15Dec_go DST
 12:45
 -
 17:18
@@ -290,7 +290,7 @@ BACKWARDS_NEXT_BACK
 19:56
 23:55
 
-16Dec_go
+16Dec_go DST
 2:00
 4:45
 7:05
@@ -404,7 +404,7 @@ BACKWARDS_NEXT_BACK
 20:00
 23:50
 
-21DEKEMBAR_go
+21DEKEMBAR_go EST
 -
 00:26
 00:40
@@ -421,7 +421,7 @@ BACKWARDS_NEXT_BACK
 19:11
 20:56
 
-22Dec_go
+22Dec_go EST
 00:01
 -
 2:49
@@ -443,22 +443,31 @@ BACKWARDS_NEXT_BACK
 7:50
 -
 8:53 New account 
--
 9:11:45
-9:40:40:00:40:40 go
+9:40:40:00:40:40:30:20 go
 9:43:45
--
 10:01
 10:25
 -
 22:39
 23:55
 
-23Dec_go
+23Dec_go EST
 1:10
 4:50
 9:56
 13:50
+19:01
+23:54 
+
+24Dec_go EST
+1:06 
+5:39
+8:09 
+13:13 
+-
+13:14:45
+17:50
 
 
 MIXINS: https://www.instagram.com/p/DRSQ9rWjBq-/?igsh=MWFhdjc3cnN4cnBpdg== , 
