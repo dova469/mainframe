@@ -6,7 +6,7 @@ Scalemarker:и2
 
 таLLтаLL15:true/yes 
 
-#touchcall_dou#scratch_app-dou#fos_iz_borin#voda_fo_ouchyia#
+#touchcall_dau#scratch_app-dau#fos_iz_borin#voda_fo_ouchyia#
 
 14jan_go
 14:40:40:01
