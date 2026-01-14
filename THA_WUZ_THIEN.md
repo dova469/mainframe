@@ -20,7 +20,7 @@ Scalemarker:и2
 16:15
 -
 16:28:59
-16:40:30
+16:40:30 #GONZO_NO#TIZ_NO#KO_1463#
 17:07:07
 
 #REPETITIVE_ky9#
