@@ -8,7 +8,7 @@ Scalemarker:и2
 
 #touchcall_dau#scratch_app-dau#fos_iz_borin#voda_fo_ouchyia#
 
-14jan_go
+14jan_go_EST
 14:40:40:01
 15:05:05
 15:44:44
@@ -40,11 +40,16 @@ Scalemarker:и2
 22:17
 - #REPEAT_PAGE_GO#
 
-15jan_go
+15jan_go_EST
 02:56:55
 02:56:56
 02:56:57
-3:29
+3:00
 -
+4:41
+4:59
+
+16jan_go_PST
+0:20
 
 #REPETITIVE_ky9#
