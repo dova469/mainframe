@@ -1,12 +1,14 @@
 ye$.sta®t#go_ko_run#
 
-wier?HILTON_NEWARK
+#DATA_LINE_1234::12:34:35#
 
-Scalemarker:и2(why-too)
+#lost_stuff?HILTON_NEWARK1#
 
-таLLтаLL15:true/yes 
+#Scalemarker:и2(why-too)#
 
-#touchcall_dau#scratch_app-dau#fos_iz_borin#voda_fo_ouchyia#
+#TALLTALL15:true/yes#
+
+#touchcall_down#scratch_app-down#fos_iz_borin#vodafo_iz_out#
 
 14jan_go_EST
 14:40:40:01
