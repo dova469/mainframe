@@ -237,8 +237,13 @@ ye$.sta®t#go_ko_run#
 14:50
 -
 15:30
+17:56:00
 22:00
 18jan_ok
 20:00
+19jan_ok
+19:00 
+20jan_go
+22:00
 
 #REPETITIVE_ky9#
