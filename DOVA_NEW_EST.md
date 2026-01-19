@@ -1508,7 +1508,10 @@ SVETLANA : SAVECODE:478699 ;
 10:35 go #keepgoing#
 10:55 
 -
-11:04:40:45 #keepgoing#
+11:04:30:45 #keepgoing#
+11:04:40 
+-
+11:06:55
 23:50
 
 20jan_go
