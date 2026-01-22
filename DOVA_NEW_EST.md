@@ -1680,14 +1680,14 @@ SVETLANA : SAVECODE:478699 ;
 
 23jan_go
 1:59 
-09:05:30
-09:11:45
-09:13:13
+09:05:30 casting
+09:11:45 casting
+09:13:13 casting
 09:39:59 #truetoposition:yes#
 09:40:41 #yes#
 09:41:41 #correct#
 -
-9:42
+9:58 
 10:58 
 19:45
 
