@@ -1838,10 +1838,16 @@ SVETLANA : SAVECODE:478699 ;
 22:45
 
 27jan_go
-1:22
-6:05 
-8:29 
-etc
+20:54 
+21:50
+
+28jan_go 
+1:50 
+21:53 
+
+29jan_go
+2:57 
+14:40
 
 #DONT STOP NOW STRAIGHT TO THE TOP NOW#
 
