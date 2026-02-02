@@ -2579,6 +2579,9 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 11:10 
 -
 11:18:30 start rankings only here
+11:23 
+-
+11:32 
 14:00
 20:00
 
