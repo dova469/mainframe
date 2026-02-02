@@ -2578,7 +2578,7 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 11:05:30 #addons-only-lol#
 11:10 
 -
-11:11:11 start rankings only here
+11:18:30 start rankings only here
 14:00
 20:00
 
