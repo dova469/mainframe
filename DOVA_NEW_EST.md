@@ -2581,7 +2581,7 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 11:18:30 start rankings only here
 11:23 
 -
-11:32 
+11:32 #walk2feb#
 14:00
 20:00
 
