@@ -103,6 +103,7 @@ VALENTINA SLICZNALALKA DOVA ;
 1:20 
 5:30 
 
-add-ons: https://modelisto.com/Wiki/Mra-Models-Bucharest/Photo/56462 ,
+add-ons: https://modelisto.com/Wiki/Mra-Models-Bucharest/Photo/56462 , 
+https://www.modelmayhem.com/portfolio/253/viewall ,
 ![17701243790427125952747643064930](https://github.com/user-attachments/assets/ca4102cb-5ede-45fa-943d-9da4f6a05674) ;
 
