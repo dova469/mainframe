@@ -132,7 +132,7 @@ VALENTINA SLICZNALALKA DOVA ;
 -
 9:01
 09:01:15 
--  o way
+-  no way
 13:10
 15:11
 18:20 
