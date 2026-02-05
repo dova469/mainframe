@@ -2824,7 +2824,7 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 17:54:30 #spine-detective-id:6264441614#wya_go_ko_run#
 17:55:55:00:00:00:01:18 #sphinx_sko:764#
 17:56:33 
-- end session
+- end session #WALK5FEB#VS#1#POP#MMP#NEXTMILANO#HOUSEOFVS#WYA_GO_KO_RUN#
 18:52
 23:45
 
