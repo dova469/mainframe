@@ -2754,6 +2754,11 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 11:40 
 13:00 
 16:50:00:00:00.54246 #aleksander_go_new_pleasegod_sorrysweetheart_iloveyou_uheardithere=)#
+16:51:15 
+-
+16:51:51:16
+16:52:30 
+16:52:45 
 17:00 
 21:52
 -
