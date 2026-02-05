@@ -2792,6 +2792,18 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 17:16:16
 17:16:30
 17:16:45
+-
+17:17:50 
+17:17:59 
+17:18:18
+-
+17:19 #shower_eyes#keepsgoing#underground_62#dmv_no_ko_go:3525350292ahh191964196406116#code6:modelno_go:irina-s#
+17:22 #house-mom-no:irina-s#
+-
+17:23:23
+17:23:30 #nostop#
+-
+17:24
 21:52
 
 6feb_go 
