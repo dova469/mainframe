@@ -2991,6 +2991,9 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 -
 11:51:51
 11:52.76312479×588652
+-
+skinny account missing 
+11:53:15 better #keepsgoing#
 12:45 
 17:30
 21:00
