@@ -2994,6 +2994,8 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 -
 skinny account missing 
 11:53:15 better #keepsgoing#
+- upside down face?
+11:55 
 12:45 
 17:30
 21:00
