@@ -2920,17 +2920,20 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 06:27:03 ♡
 06:27:27
 -
-06:53:39 
+07:15:14 
+07:15:15 
 -
-06:55:12 
-06:55:13 
--
-07:04:04:30 #VS_KO_3.4#
-07:04:15.986532×35789753267
-07:04:30
-11:20 
-18:56
-23:00
+7:20 
+8:50
+11:59
+16:59 
+21:00
+
+7feb_go
+0:16
+5:50
+
+
 
 add-ons: https://modelisto.com/Wiki/Mra-Models-Bucharest/Photo/56462 , 
 https://www.modelmayhem.com/portfolio/253/viewall ,
