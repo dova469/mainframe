@@ -2812,7 +2812,7 @@ MINUTE-YES: 21:24 OK? #KEEPSGOING#
 17:29:02 yasss
 17:37:03 
 17:38:00:00:00:00:00:00.13247843
-17:40 #zelen:808999bibibhiney#kod_c61y4::cy614_idf#ok#yawn#iriha#no_k#
+17:40 #zelenskiy_presidentofukraine:808999bibibhiney#kod_c61y4::cy614_idf#ok#yawn#iriha#no_k#
 17:48:01:00:00.9643
 17:48:15 
 17:48:30 
