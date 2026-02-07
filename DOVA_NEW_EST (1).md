@@ -3061,6 +3061,8 @@ skinny account missing
 -
 20:38 #remyboy#
 20:39:39 
+-#sturdy:no#
+20:44:44
 21:21:21
 23:45
 
