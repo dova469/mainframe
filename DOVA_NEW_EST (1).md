@@ -1,3 +1,5 @@
+NO: DFT-J,DFT-T,DFT-E,D911,DFT-B,DFT-M,PEPE,KATAFIY,4602 ;
+
 nerves and teeth: 
 04:19:23-04:19:28 15feb2026 #5_second_mark# ; 
 04:30:52 15feb2026 ;
