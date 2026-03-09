@@ -35,6 +35,10 @@ VALENTINA SLICZNALALKA DOVA ;
 7NORTH-8NORTH
 VALENTINA SLICZNALALKA DOVA ;
 
+69 TODAY'S DATE PATENT
+9NORTH
+VALENTINA SLICZNALALKA DOVA ;
+
 M 24HR TYPE PATENT
 6NORTH
 VALENTINA SLICZNALALKA DOVA ;
@@ -4521,10 +4525,23 @@ skinny account missing
 17:50
 21:59
 
-8marzo_go
-0:04 
-5:29 
-12:00 
+-
+
+9marzo_go
+9:00 
+09:36:30.442126776
+-
+13:33
+16:20
+20:45 
+23:03 
+
+10marzo_go
+3:03 
+6:59 
+11:00 
+16:59
+21:45 
 
 add-ons: https://modelisto.com/Wiki/Mra-Models-Bucharest/Photo/56462 , 
 https://www.modelmayhem.com/portfolio/253/viewall ,
