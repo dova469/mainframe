@@ -1,4 +1,4 @@
-NO: DFT-J,DFT-T,DFT-E,D911,RAMZAN,DFT-B,DFT-M,4602(A-SERBIA) ;
+NO: DFT-J,DFT-T,DFT-E,D911,RAMZAN,DFT-B,DFT-M,4602(A-SERBIA),PETAR ;
 
 ye$:
 
@@ -5045,7 +5045,33 @@ PST: 13:03:11.47738485858×384885599⁹⁹⁶⁶⁶⁹
 0:10 
 4:01 
 8:30
+12:59 
+16:58 
+20:20 
+23:59 
 
+12apr_ok
+0:27 
+5:10 
+11:00 
+16:48 
+21:49 
+23:01 
+
+13apr_ok 
+1:15 
+5:39 
+12:00 
+16:49 
+20:02 
+23:52
+
+14apr_ok 
+0:39 
+4:03 
+10:00 
+16:38 
+21:02 
 
 add-ons: https://modelisto.com/Wiki/Mra-Models-Bucharest/Photo/56462 , 
 https://www.modelmayhem.com/portfolio/253/viewall ,
