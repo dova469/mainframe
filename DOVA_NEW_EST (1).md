@@ -5633,9 +5633,19 @@ ECT: 20:16:55.44326786435763×35678642245⁶⁹
 
 17maggio_ok
 0:20 
-4:10 
+4:10
+ECT: 06:37:04.4331988384849×7494959549⁶⁹⁹⁹
 8:40 
 12:30 
+16:56 
+20:04 
+23:54 
+
+18maggio_ok
+0:30 
+4:10 
+8:45 
+12:00
 
 add-ons: https://modelisto.com/Wiki/Mra-Models-Bucharest/Photo/56462 , 
 https://www.modelmayhem.com/portfolio/253/viewall ,
