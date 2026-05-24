@@ -5877,10 +5877,20 @@ ECT: 20:49:41.4+.00000000009876421235117⅕
 
 24maggio_ok
 0:01 
-4:03 
+4:03 #NO-TISSUE-SAMPLES#
 8:59 
 11:03 
 15:02
+19:14 
+22:45 
+
+25maggio_ok
+0:14 
+4:27 
+8:10 
+11:50 
+15:07 
+20:00
 
 add-ons: https://modelisto.com/Wiki/Mra-Models-Bucharest/Photo/56462 , 
 https://www.modelmayhem.com/portfolio/253/viewall ,
