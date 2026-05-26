@@ -1,4 +1,4 @@
-GITHUB /VALENTINABIBI/
+0GITHUB /VALENTINABIBI/
 GITHUB1 /DOVA469/
 GITHUB2 /VALENTINASLICZNALALKADOVA/
 
@@ -5930,7 +5930,8 @@ ECT: 15:55:11.54+.004048487½
 
 26maggio_ok
 0:03 
-4:56 
+-
+4:56 #BROW-CODE-GO#
 9:00 
 12:45 
 16:40 
@@ -5939,6 +5940,11 @@ ECT: 15:55:11.54+.004048487½
 
 27maggio_ok
 0:20
+3:58 
+8:45 
+11:00 
+14:55 
+18:30 
 
 add-ons: https://modelisto.com/Wiki/Mra-Models-Bucharest/Photo/56462 , 
 https://www.modelmayhem.com/portfolio/253/viewall ,
