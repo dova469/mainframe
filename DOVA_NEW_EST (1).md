@@ -18,7 +18,7 @@ BIBI LOVeS HER TIMESTAMPS, THESE ONEZ~ 16:45:48; 16:54:10; 16:55:05; 18:40:56; 2
 [7/16, 11:01 AM] vsd SLICZNALALKA: 11:01:38
 -#no-amanda#
 11:02:43#go#
-[7/16, 12:22 PM] vsd SLICZNALALKA: ChapelA-BathroomA-Bed82A-OfficeA-McDonald'sA-LoungechairA-JailA-Cookeville,TNA-BedB-BathroomB-JailB-Sparta,TNB-JailC-Chatanooga,TNC-BAMBISAIDOK
+[7/16, 12:22 PM] vsd SLICZNALALKA: ChapelA-BathroomA-Bed82A-OfficeA-McDonald'sA-LoungechairA-JailA-Cookeville,TNA-BedB-BathroomB-JailB-Sparta,TNB-BedC-RihannaSongC-JailC-Chatanooga,TNC-BAMBISAIDOK
 [7/16, 12:23 PM] vsd SLICZNALALKA: Next-Ok-Milano-Internazionale
 [7/16, 6:05 PM] vsd SLICZNALALKA: 18:04:00
 [7/16, 7:17 PM] vsd SLICZNALALKA: 18:04:01
