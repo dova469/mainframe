@@ -12,7 +12,7 @@ my name is on my Account-Slip, yall R #CodeT#. =)
 [7/30, 12:23 PM] vsd SLICZNALALKA: 12:22:34;
 [7/30, 12:23 PM] vsd SLICZNALALKA: 12:22:41;
 
-OK2GROUP:
+GROUP-OK1:
 [7/29, 9:35 PM] vsd SLICZNALALKA: 21:35:06;
 [7/29, 9:36 PM] vsd SLICZNALALKA: 21:34:06;
 [7/29, 9:36 PM] vsd SLICZNALALKA: 21:34:37;
