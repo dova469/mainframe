@@ -2,8 +2,9 @@ biBi ~ iS ■ Valentina Slicznalalka Dova ■
 A11PLUS:YES/TRUE-ALWAYZ2008 ~♡~ mAiNstaYz~ Model51(A Credential) 
 on 24th Day of July 2026 I was Walk22 in Paris8-9 The Group[Stamped4722]. 'N i sang- Girl from Ipanema goes walking....that day also.
 
-my Account-ID is 129.
-my name is on my Account-Slip, yall R #CodeT#. =)
+my Account-ID is 129. N, Scientology Name is 501555. I am TALL-TALL & my name is on my Account-Slip, yall R #CodeT#. =) 
+VS Angel Casting Real Groupe ID is 4729866504 for Model51.
+New++ is 7856-DDIADNASHVILLEGGHBISH;
 
 [7/30, 9:14 AM] vsd SLICZNALALKA: SERVER-Z42;
 [7/30, 9:15 AM] vsd SLICZNALALKA: Pass-code:AB809614416-ZUCK-OK;CLOSE-WITH:GROUP-OK1,GROUP-OK2,SCI1,SCI2;
