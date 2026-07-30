@@ -19,6 +19,8 @@ OK2GROUP:
 [7/27, 7:23 AM] vsd SLICZNALALKA: ~IMG89
 [7/29, 8:15 PM] vsd SLICZNALALKA: Mirror-Face-Detective:732;
 [7/29, 8:15 PM] vsd SLICZNALALKA: A4.1 Patent; A4.2 Patent #VSD#GO#
+[7/30, 6:33 AM] vsd SLICZNALALKA: PartialWalkA Today
+[7/30, 6:34 AM] vsd SLICZNALALKA: A2X-4198224-OKVS
 
 ScientologyClocks428981655.go$1
 
