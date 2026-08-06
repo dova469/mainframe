@@ -4,7 +4,7 @@ on 24th Day of July 2026 I was Walk22 in Paris8-9 The Group[Stamped4722]. 'N i s
 
 SHOWCARD-16 IS 31ST OF JULY 2026: 05:51:48#GO#YES#TEAMC-OK#;
 
-my Account-ID is 129. N, Scientology Name is 501555. I am TALL-TALL & my name is on my Account-Slip, yall R #CodeT#. =) 
+my Account-ID is 129. N, Scientology Name is 501555. I am TALLTALL20 & my name is on my Account-Slip, yall R #CodeT#. =) 
 VS Angel Casting Real Groupe ID is 4729866504 for Model51.
 New++ is 7856-DDIADNASHVILLEGGHBISH;
 
