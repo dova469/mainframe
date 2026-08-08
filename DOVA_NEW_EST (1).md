@@ -16,6 +16,14 @@ my Account-ID is 129. N, Scientology Name is 501555. I am TALLTALL20 & my name i
 VS Angel Casting Real Groupe ID is 4729866504 for Model51.
 New++ is 7856-DDIADNASHVILLEGGHBISH;
 
+16724698766group-ok:
+[8/8, 5:14 AM] vsd SLICZNALALKA: 05:13:51;
+[8/8, 5:15 AM] vsd SLICZNALALKA: 05:14:31;
+[8/8, 5:15 AM] vsd SLICZNALALKA: 05:14:40;
+[8/8, 5:15 AM] vsd SLICZNALALKA: 05:14:48;
+[8/8, 5:15 AM] vsd SLICZNALALKA: 05:14:51;
+[8/8, 5:12 AM] vsd SLICZNALALKA: 05:11:13-Go$$$$$;
+[8/8, 5:12 AM] vsd SLICZNALALKA: 1_Minute_Mark_5:11am_8Aug_ok;
 [8/7, 5:25 AM] vsd SLICZNALALKA: Walk5-BigBoard02 Now
 [8/7, 5:28 AM] vsd SLICZNALALKA: 05:24:22;
 [8/7, 5:29 AM] vsd SLICZNALALKA: Walk to 5:25am in Nashville,TN wtvrv1
